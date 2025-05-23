@@ -113,5 +113,7 @@ This comprehensive database project models a **university academic system** inte
 ## 🗂️ Database Schema & Data Model
 
 ...
+![Screenshot 2025-05-23 232859](https://github.com/user-attachments/assets/1b676ffd-66af-4981-b291-248586fbffe3)
+![Screenshot 2025-05-23 232927](https://github.com/user-attachments/assets/69832935-2670-4453-a2d7-a958efe60bc0)
 
-*(rest of the README content continues as before)*
+
